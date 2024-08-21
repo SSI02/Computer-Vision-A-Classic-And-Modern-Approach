@@ -1,1 +1,1 @@
-#Image Processing Course Assignments
+**Image Processing Course Assignments**
